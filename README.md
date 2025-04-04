@@ -1,7 +1,5 @@
 # Showcase-FilamentPHP
 
-[![Awesome](_static/showcase.png)](https://github.com/sirajunnasihin/filamentphp-showcase) [![](https://github.com/sirajunnasihin/filamentphp-showcase/actions/workflows/check-dead-links.yml/badge.svg)](https://github.com/sirajunnasihin/filamentphp-showcase/issues/1) [![](https://github.com/sirajunnasihin/filamentphp-showcase/actions/workflows/check-unmaintained-projects.yml/badge.svg)]
-
 This is a list of [Free](https://en.wikipedia.org/wiki/Showcase) showcase [FilamentPHP](https://filamentphp.com) which can be use for free.
 
 See [Contributing](#contributing).
