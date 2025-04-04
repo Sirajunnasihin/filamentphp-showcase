@@ -18,8 +18,10 @@ See [Contributing](#contributing).
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
-- [Mediawiki](https://www.mediawiki.org/wiki/MediaWiki) - MediaWiki is a free and open-source wiki software package written in PHP. It serves as the platform for Wikipedia and the other Wikimedia projects, used by hundreds of millions of people each month. ([Demo](https://en.wikipedia.org/wiki/Main_Page), [Source Code](https://phabricator.wikimedia.org/source/mediawiki/)) `GPL-2.0`
-
+- [ERPSAAS](https://github.com/andrewdwallo/erpsaas) - A Laravel and Filament-powered accounting platform, crafting a modern and automated solution for financial management. By [Andrewdwallo](https://github.com/andrewdwallo)
+- [Invobook](https://github.com/Hasnayeen/invobook) - Self-hosted app for Time Tracking, Invoice Generation, Project & Client Management, built with Laravel & Filament. By [Hasnayeen](https://github.com/Hasnayeen)
+- [Projct Management](https://github.com/devaslanphp/project-management) - An open source Project management tool based on Laravel and Filament. By [DevaslanPHP](https://github.com/devaslanphp)
+- [Forumium](https://github.com/devaslanphp/forumium) - Fast, Clean, Easy to use and Open Source Forum to boost collaboration. By [DevaslanPHP](https://github.com/devaslanphp)
 --------------------
 
 ## External Links
