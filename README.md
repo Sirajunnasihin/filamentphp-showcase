@@ -37,5 +37,4 @@ Contributing guidelines can be found [here](https://github.com/sirajunnasihin/fi
 ## License
 
 This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](https://github.com/sirajunnasihin/filamentphp-showcase/blob/main/LICENSE) License.
-Terms of the license are summarized [here](https://creativecommons.org/licenses/by-sa/3.0/).  
-The list of authors can be found in the [AUTHORS](https://github.com/sirajunnasihin/filamentphp-showcase/blob/main/AUTHORS) file.
+Terms of the license are summarized [here](https://creativecommons.org/licenses/by-sa/3.0/).
