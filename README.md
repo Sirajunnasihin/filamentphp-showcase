@@ -1,6 +1,6 @@
 # Showcase-FilamentPHP
 
-[![Awesome](_static/showcase.png)](https://github.com/sirajunnasihin/filamentphp-showcase) [![](https://github.com/sirajunnasihin/filamentphp-showcase/actions/workflows/check-dead-links.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1) [![](https://github.com/sirajunnasihin/filamentphp-showcase/actions/workflows/check-unmaintained-projects.yml/badge.svg)]
+[![Awesome](_static/showcase.png)](https://github.com/sirajunnasihin/filamentphp-showcase) [![](https://github.com/sirajunnasihin/filamentphp-showcase/actions/workflows/check-dead-links.yml/badge.svg)](https://github.com/sirajunnasihin/filamentphp-showcase/issues/1) [![](https://github.com/sirajunnasihin/filamentphp-showcase/actions/workflows/check-unmaintained-projects.yml/badge.svg)]
 
 This is a list of [Free](https://en.wikipedia.org/wiki/Showcase) showcase [FilamentPHP](https://filamentphp.com) which can be use for free.
 
@@ -34,10 +34,10 @@ See [Contributing](#contributing).
 
 ## Contributing
 
-Contributing guidelines can be found [here](https://github.com/sirajunnasihin/filamentphp-showcase/blob/master/CONTRIBUTING.md).
+Contributing guidelines can be found [here](https://github.com/sirajunnasihin/filamentphp-showcase/blob/main/CONTRIBUTING.md).
 
 ## License
 
-This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](https://github.com/sirajunnasihin/filamentphp-showcase/blob/master/LICENSE) License.
+This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](https://github.com/sirajunnasihin/filamentphp-showcase/blob/main/LICENSE) License.
 Terms of the license are summarized [here](https://creativecommons.org/licenses/by-sa/3.0/).  
-The list of authors can be found in the [AUTHORS](https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/AUTHORS) file.
+The list of authors can be found in the [AUTHORS](https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/main/AUTHORS) file.
